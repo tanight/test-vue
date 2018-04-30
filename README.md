@@ -1,10 +1,14 @@
+## test deploy with Nuxt.js
+
+link : https://elegant-tesla-dcc94a.netlify.com/
+
 # test-profolio
 
 > Nuxt.js project
 
 ## Build Setup
 
-``` bash
+```bash
 # install dependencies
 $ npm install # Or yarn install
 
